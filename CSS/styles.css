@@ -1,0 +1,14 @@
+body {
+    min-width: 400px;
+    align-items: center;
+}
+
+.images {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.topnav {
+    align-items: center;
+}
