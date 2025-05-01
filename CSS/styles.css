@@ -1,14 +1,23 @@
 body {
-    min-width: 400px;
-    align-items: center;
+    min-width: 370px;
+    background-color: rgb(204, 127, 45);
+    padding: .5rem;
+}
+
+h1 {
+    text-align: center;
+    background-color: blueviolet;
+    margin-top: 0;
+    min-height: 5rem;
 }
 
 .images {
-    display: flex;
+    display: flexbox;
     justify-content: center;
     flex-wrap: wrap;
 }
 
 .topnav {
     align-items: center;
+    text-align: center;
 }
