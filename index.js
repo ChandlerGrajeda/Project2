@@ -14,7 +14,6 @@ async function fetchdata() {
         let img = document.createElement("img");
         img.src = arrPictures[index].images.original.url;
         container.append(img);
-        console.log(arrPictures[index].images.original.url);
     }
 }
 fetchdata();
