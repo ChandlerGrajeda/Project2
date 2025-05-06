@@ -1,2 +1,1 @@
 let apiKey = "KD2luxQLSt50Xev1SHSEPHrT92raj4If";
-console.log("test");

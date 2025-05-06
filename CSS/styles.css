@@ -10,10 +10,16 @@ h1 {
     min-height: 5rem;
 }
 
-.images {
+#images {
     display: flex;
+    gap: 10px;
     justify-content: center;
     flex-wrap: wrap;
+}
+
+#images >img {
+    max-width: 150px;
+    min-width: 70px;
 }
 
 .topnav {
